@@ -1,0 +1,46 @@
+nav{
+    width: auto;
+    height: 50px;
+    background-color: purple;
+}
+hr{
+    width: 60%;
+    margin-left: 2px;
+}
+.col-md-2{
+    background-color: purple;
+    height: 900px;
+}
+.col-md-10 {
+    margin-top: -65%;
+    margin-left: 17%;
+}
+.item{
+    margin-right: 20%;
+}
+.price{
+    margin-left: 0rem;
+    margin-top: 1rem;
+}
+.add{
+    margin-left: 12.5rem;
+    background-color: plum;
+    font-weight: normal;
+}
+.add:hover{
+    background-color: palevioletred;
+}
+.qty{
+    display: flexbox;
+    margin-left: 12rem;
+    margin-top: -2.5rem;
+}
+.tity{
+    width: 22px;
+}
+.pop{
+    width: 100%;
+    padding-top: 30px;
+    background-color: purple;
+}
+  
